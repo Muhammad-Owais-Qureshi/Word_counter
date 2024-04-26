@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquier from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bold.blueBright('\n \t \t Well come to word counter'));
